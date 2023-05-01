@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "645375153479",
+    "firebase_url": "https://govt-girls-polytechnic-g-ecf35.firebaseio.com",
+    "project_id": "govt-girls-polytechnic-g-ecf35",
+    "storage_bucket": "govt-girls-polytechnic-g-ecf35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645375153479:android:d51f6cb4395c7af36aa862",
+        "android_client_info": {
+          "package_name": "com.example.shikha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645375153479-aebb3q9dgdiu6o13m938dfafm1o2rlfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2PY3v-hveRIWmHuBULO68rdJDR_khy8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645375153479-aebb3q9dgdiu6o13m938dfafm1o2rlfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
